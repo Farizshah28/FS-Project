@@ -1,8 +1,12 @@
 {
-  "name": "ecommerce-inngest",
-  "version": "0.1.0",
+  "name": "techmart-ecommerce",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
+  "description": "A modern e-commerce platform for premium electronics and tech accessories built with Next.js, Clerk authentication, and Tailwind CSS.",
+  "keywords": ["ecommerce", "electronics", "nextjs", "clerk", "tailwind"],
+  "author": "TechMart Team",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",

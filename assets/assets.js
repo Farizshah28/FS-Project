@@ -134,143 +134,143 @@ export const productsDummyData = [
   {
     "_id": "67a1f4e43f34a77b6dde9144",
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-    "name": "Apple AirPods Pro 2nd gen",
-    "description": "Apple AirPods Pro (2nd Gen) with MagSafe Case (USB-C) provide excellent sound, active noise cancellation, and a comfortable fit. The USB-C case ensures quick charging, and they pair seamlessly with Apple devices for an effortless audio experience.",
-    "price": 499.99,
-    "offerPrice": 399.99,
+    "name": "Apple AirPods Pro 2nd Generation",
+    "description": "Experience immersive sound with Active Noise Cancellation and Adaptive Transparency. Features spatial audio with dynamic head tracking, sweat and water resistance, and up to 6 hours of listening time with Active Noise Cancellation enabled.",
+    "price": 249.99,
+    "offerPrice": 199.99,
     "image": [
       "https://raw.githubusercontent.com/avinashdm/gs-images/main/quickcart/k4dafzhwhgcn5tnoylrw.webp",
       "https://raw.githubusercontent.com/avinashdm/gs-images/main/quickcart/j212frakb8hdrhvhajhg.webp",
       "https://raw.githubusercontent.com/avinashdm/gs-images/main/quickcart/imwuugqxsajuwqpkegb5.webp",
       "https://raw.githubusercontent.com/avinashdm/gs-images/main/quickcart/k1oqaslw5tb3ebw01vvj.webp"
     ],
-    "category": "Earphone",
+    "category": "Audio",
     "date": 1738667236865,
     "__v": 0
   },
   {
     "_id": "67a1f52e3f34a77b6dde914a",
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-    "name": "Bose QuietComfort 45",
-    "description": "The Bose QuietComfort 45 headphones are engineered for exceptional sound quality and unparalleled noise cancellation. With a 24-hour battery life and comfortable, lightweight design, these headphones deliver premium audio for any environment. Whether on a flight, in the office, or at home, the Bose QC45 blocks out distractions, offering an immersive listening experience.",
-    "price": 429.99,
-    "offerPrice": 329.99,
+    "name": "Bose QuietComfort 45 Wireless Headphones",
+    "description": "Premium wireless headphones with world-class noise cancellation. Features up to 24 hours of battery life, comfortable fit for all-day wear, and crystal-clear sound quality. Perfect for travel, work, or daily commutes.",
+    "price": 329.99,
+    "offerPrice": 279.99,
     "image": [
       "https://raw.githubusercontent.com/avinashdm/gs-images/main/quickcart/m16coelz8ivkk9f0nwrz.webp"
     ],
-    "category": "Headphone",
+    "category": "Audio",
     "date": 1738667310300,
     "__v": 0
   },
   {
     "_id": "67a1f5663f34a77b6dde914c",
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-    "name": "Samsung Galaxy S23",
-    "description": "The Samsung Galaxy S23 offers an all-encompassing mobile experience with its advanced AMOLED display, offering vibrant visuals and smooth interactions. Equipped with top-of-the-line fitness tracking features and cutting-edge technology, this phone delivers outstanding performance. With powerful hardware, a sleek design, and long battery life, the S23 is perfect for those who demand the best in mobile innovation.",
-    "price": 899.99,
-    "offerPrice": 799.99,
+    "name": "Samsung Galaxy S23 Ultra",
+    "description": "The ultimate smartphone with S Pen integration, 200MP camera system, and 5G connectivity. Features a 6.8-inch Dynamic AMOLED display, 5000mAh battery, and advanced AI capabilities for photography and productivity.",
+    "price": 1199.99,
+    "offerPrice": 999.99,
     "image": [
       "https://raw.githubusercontent.com/avinashdm/gs-images/main/quickcart/xjd4eprpwqs7odbera1w.webp"
     ],
-    "category": "Smartphone",
+    "category": "Smartphones",
     "date": 1738667366224,
     "__v": 0
   },
   {
     "_id": "67a1f5993f34a77b6dde914e",
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-    "name": "Garmin Venu 2",
-    "description": "The Garmin Venu 2 smartwatch blends advanced fitness tracking with sophisticated design, offering a wealth of features such as heart rate monitoring, GPS, and sleep tracking. Built with a 24-hour battery life, this watch is ideal for fitness enthusiasts and anyone looking to enhance their daily lifestyle. With a stunning AMOLED display and customizable watch faces, the Venu 2 combines technology with style seamlessly.",
-    "price": 399.99,
-    "offerPrice": 349.99,
+    "name": "Garmin Venu 2 Plus Smartwatch",
+    "description": "Advanced fitness smartwatch with health monitoring, GPS tracking, and music storage. Features AMOLED display, up to 9 days battery life, and comprehensive health metrics including heart rate, sleep tracking, and stress monitoring.",
+    "price": 449.99,
+    "offerPrice": 399.99,
     "image": [
       "https://raw.githubusercontent.com/avinashdm/gs-images/main/quickcart/hdfi4u3fmprazpnrnaga.webp"
     ],
-    "category": "Earphone",
+    "category": "Wearables",
     "date": 1738667417511,
     "__v": 0
   },
   {
     "_id": "67a1f5ef3f34a77b6dde9150",
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-    "name": "PlayStation 5",
-    "description": "The PlayStation 5 takes gaming to the next level with ultra-HD graphics, a powerful 825GB SSD, and ray tracing technology for realistic visuals. Whether you're into high-action games or immersive storytelling, the PS5 delivers fast loading times, seamless gameplay, and stunning visuals. It's a must-have for any serious gamer looking for the ultimate gaming experience.",
-    "price": 599.99,
-    "offerPrice": 499.99,
+    "name": "Sony PlayStation 5 Digital Edition",
+    "description": "Next-generation gaming console with lightning-fast loading, haptic feedback, and 3D audio. Experience immersive gaming with ray tracing, 4K graphics, and backward compatibility with PS4 games.",
+    "price": 499.99,
+    "offerPrice": 449.99,
     "image": [
       "https://raw.githubusercontent.com/avinashdm/gs-images/main/quickcart/dd3l13vfoartrgbvkkh5.webp"
     ],
-    "category": "Accessories",
+    "category": "Gaming",
     "date": 1738667503075,
     "__v": 0
   },
   {
     "_id": "67a1f70c3f34a77b6dde9156",
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-    "name": "Canon EOS R5",
-    "description": "The Canon EOS R5 is a game-changing mirrorless camera with a 45MP full-frame sensor, offering ultra-high resolution and the ability to shoot 8K video. Whether you're capturing professional-quality stills or cinematic video footage, this camera delivers exceptional clarity, speed, and color accuracy. With advanced autofocus and in-body stabilization, the R5 is ideal for photographers and videographers alike.",
-    "price": 4199.99,
-    "offerPrice": 3899.99,
+    "name": "Canon EOS R5 Mirrorless Camera",
+    "description": "Professional mirrorless camera with 45MP full-frame sensor and 8K video recording. Features advanced autofocus, in-body stabilization, and dual card slots. Perfect for professional photography and videography.",
+    "price": 3899.99,
+    "offerPrice": 3499.99,
     "image": [
       "https://raw.githubusercontent.com/avinashdm/gs-images/main/quickcart/r5h370zuujvrw461c6wy.webp"
     ],
-    "category": "Camera",
+    "category": "Cameras",
     "date": 1738667788883,
     "__v": 0
   },
   {
     "_id": "67a1f7c93f34a77b6dde915a",
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-    "name": "MacBook Pro 16",
-    "description": "The MacBook Pro 16, powered by Apple's M2 Pro chip, offers outstanding performance with 16GB RAM and a 512GB SSD. Whether you're editing high-resolution video, developing software, or multitasking with ease, this laptop can handle the toughest tasks. It features a stunning Retina display with True Tone technology, making it a top choice for professionals in creative industries or anyone who demands premium performance in a portable form.",
-    "price": 2799.99,
-    "offerPrice": 2499.99,
+    "name": "Apple MacBook Pro 16-inch M2 Pro",
+    "description": "Powerful laptop with M2 Pro chip, 16GB unified memory, and 512GB SSD. Features Liquid Retina XDR display, up to 22 hours battery life, and professional-grade performance for creative work and development.",
+    "price": 2499.99,
+    "offerPrice": 2299.99,
     "image": [
       "https://raw.githubusercontent.com/avinashdm/gs-images/main/quickcart/rzri7kytphxalrm9rubd.webp"
     ],
-    "category": "Laptop",
+    "category": "Laptops",
     "date": 1738667977644,
     "__v": 0
   },
   {
     "_id": "67a1f8363f34a77b6dde915c",
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-    "name": "Sony WF-1000XM5",
-    "description": "Sony WF-1000XM5 true wireless earbuds deliver immersive sound with Hi-Res Audio and advanced noise cancellation technology. Designed for comfort and quality, they provide a stable, snug fit for a secure listening experience. Whether you're working out or traveling, these earbuds will keep you connected with the world around you while enjoying rich, clear sound.",
-    "price": 349.99,
-    "offerPrice": 299.99,
+    "name": "Sony WF-1000XM5 Wireless Earbuds",
+    "description": "Premium wireless earbuds with industry-leading noise cancellation and exceptional sound quality. Features 8 hours battery life, quick charge, and seamless connectivity with all your devices.",
+    "price": 299.99,
+    "offerPrice": 249.99,
     "image": [
       "https://raw.githubusercontent.com/avinashdm/gs-images/main/quickcart/e3zjaupyumdkladmytke.webp"
     ],
-    "category": "Earphone",
+    "category": "Audio",
     "date": 1738668086331,
     "__v": 0
   },
   {
     "_id": "67a1f85e3f34a77b6dde915e",
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-    "name": "Samsung Projector 4k",
-    "description": "The Samsung 4K Projector offers an immersive cinematic experience with ultra-high-definition visuals and realistic color accuracy. Equipped with a built-in speaker, it delivers rich sound quality to complement its stunning 4K resolution. Perfect for movie nights, gaming, or presentations, this projector is the ultimate choice for creating an at-home theater experience or professional setting.",
-    "price": 1699.99,
-    "offerPrice": 1499.99,
+    "name": "Samsung 4K Smart Projector",
+    "description": "Ultra-bright 4K projector with HDR support and built-in streaming apps. Features 3300 ANSI lumens, 1.2x zoom, and wireless connectivity. Perfect for home theater and professional presentations.",
+    "price": 1499.99,
+    "offerPrice": 1299.99,
     "image": [
       "https://raw.githubusercontent.com/avinashdm/gs-images/main/quickcart/qqdcly8a8vkyciy9g0bw.webp"
     ],
-    "category": "Accessories",
+    "category": "Home Entertainment",
     "date": 1738668126660,
     "__v": 0
   },
   {
     "_id": "67a1fa4b3f34a77b6dde9166",
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-    "name": "ASUS ROG Zephyrus G16",
-    "description": "The ASUS ROG Zephyrus G16 gaming laptop is powered by the Intel Core i9 processor and features an RTX 4070 GPU, delivering top-tier gaming and performance. With 16GB of RAM and a 1TB SSD, this laptop is designed for gamers who demand extreme power, speed, and storage. Equipped with a stunning 16-inch display, it's built to handle the most demanding titles and applications with ease.",
-    "price": 2199.99,
-    "offerPrice": 1999.99,
+    "name": "ASUS ROG Zephyrus G16 Gaming Laptop",
+    "description": "High-performance gaming laptop with Intel Core i9 processor and RTX 4070 graphics. Features 16GB RAM, 1TB SSD, and 16-inch QHD display with 240Hz refresh rate. Built for serious gaming and content creation.",
+    "price": 1999.99,
+    "offerPrice": 1799.99,
     "image": [
       "https://raw.githubusercontent.com/avinashdm/gs-images/main/quickcart/wig1urqgnkeyp4t2rtso.webp"
     ],
-    "category": "Laptop",
+    "category": "Laptops",
     "date": 1738668619198,
     "__v": 0
   }
@@ -278,8 +278,8 @@ export const productsDummyData = [
 
 export const userDummyData = {
   "_id": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-  "name": "GreatStack",
-  "email": "admin@example.com",
+  "name": "TechMart Customer",
+  "email": "customer@techmart.com",
   "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoiZGVmYXVsdCIsImlpZCI6Imluc18ycnlnUnFiUDBYT2dEZ2h1ZmRXcGlpdWV5OXoiLCJyaWQiOiJ1c2VyXzJzWkZIUzFVSUl5c0p5RFZ6Q3BRaFVoVElodyJ9",
   "cartItems": {
     // "67a1f4e43f34a77b6dde9144": 3
@@ -296,133 +296,60 @@ export const orderDummyData = [
         "product": {
           "_id": "67a1f4e43f34a77b6dde9144",
           "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-          "name": "Apple AirPods Pro",
-          "description": "Apple AirPods Pro (2nd Gen) with MagSafe Case (USB-C) provide excellent sound, active noise cancellation, and a comfortable fit. The USB-C case ensures quick charging, and they pair seamlessly with Apple devices for an effortless audio experience.",
-          "price": 499.99,
-          "offerPrice": 399.99,
+          "name": "Apple AirPods Pro 2nd Generation",
+          "description": "Experience immersive sound with Active Noise Cancellation and Adaptive Transparency.",
+          "price": 249.99,
+          "offerPrice": 199.99,
           "image": [
-            "https://res.cloudinary.com/djbvf02yt/image/upload/v1738667237/lrllaprpos2pnp5c9pyy.png",
-            "https://res.cloudinary.com/djbvf02yt/image/upload/v1738667238/jqotgy2rvm36vfjv6lxl.png",
-            "https://res.cloudinary.com/djbvf02yt/image/upload/v1738667238/niw7tqxvjsxt7wcehxeo.png",
-            "https://res.cloudinary.com/djbvf02yt/image/upload/v1738667237/h8cq4x9cfzqzwaiarvpk.png"
+            "https://raw.githubusercontent.com/avinashdm/gs-images/main/quickcart/k4dafzhwhgcn5tnoylrw.webp"
           ],
-          "category": "Earphone",
-          "date": 1738667236865,
-          "__v": 0
+          "category": "Audio"
         },
-        "quantity": 1,
-        "_id": "67a20934b3db72db5cc77b2c"
+        "quantity": 2,
+        "price": 199.99
       }
     ],
-    "amount": 406.99,
+    "totalAmount": 399.98,
+    "status": "Delivered",
+    "createdAt": "2024-01-15T10:30:00Z",
     "address": {
-      "_id": "67a1e4233f34a77b6dde9055",
-      "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-      "fullName": "GreatStack",
-      "phoneNumber": "0123456789",
-      "pincode": 654321,
-      "area": "Main Road , 123 Street, G Block",
-      "city": "City",
-      "state": "State",
-      "__v": 0
-    },
-    "status": "Order Placed",
-    "date": 1738672426822,
-    "__v": 0
+      "fullName": "John Smith",
+      "area": "Downtown",
+      "city": "New York",
+      "state": "NY",
+      "phoneNumber": "+1-555-0123"
+    }
   },
   {
-    "_id": "67a20949b3db72db5cc77b2e",
+    "_id": "67a20934b3db72db5cc77b2c",
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
     "items": [
       {
         "product": {
-          "_id": "67a1f52e3f34a77b6dde914a",
+          "_id": "67a1f5663f34a77b6dde914c",
           "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-          "name": "Bose QuietComfort 45",
-          "description": "The Bose QuietComfort 45 headphones are engineered for exceptional sound quality and unparalleled noise cancellation. With a 24-hour battery life and comfortable, lightweight design, these headphones deliver premium audio for any environment. Whether on a flight, in the office, or at home, the Bose QC45 blocks out distractions, offering an immersive listening experience.",
-          "price": 429.99,
-          "offerPrice": 329.99,
+          "name": "Samsung Galaxy S23 Ultra",
+          "description": "The ultimate smartphone with S Pen integration and 200MP camera system.",
+          "price": 1199.99,
+          "offerPrice": 999.99,
           "image": [
-            "https://res.cloudinary.com/djbvf02yt/image/upload/v1738667311/m16coelz8ivkk9f0nwrz.png"
+            "https://raw.githubusercontent.com/avinashdm/gs-images/main/quickcart/xjd4eprpwqs7odbera1w.webp"
           ],
-          "category": "Headphone",
-          "date": 1738667310300,
-          "__v": 0
+          "category": "Smartphones"
         },
         "quantity": 1,
-        "_id": "67a20949b3db72db5cc77b2f"
+        "price": 999.99
       }
     ],
-    "amount": 335.99,
+    "totalAmount": 999.99,
+    "status": "In Transit",
+    "createdAt": "2024-01-20T14:45:00Z",
     "address": {
-      "_id": "67a1e4233f34a77b6dde9055",
-      "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-      "fullName": "GreatStack",
-      "phoneNumber": "0123456789",
-      "pincode": 654321,
-      "area": "Main Road , 123 Street, G Block",
-      "city": "City",
-      "state": "State",
-      "__v": 0
-    },
-    "status": "Order Placed",
-    "date": 1738672448031,
-    "__v": 0
-  },
-  {
-    "_id": "67a209bab3db72db5cc77b34",
-    "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-    "items": [
-      {
-        "product": {
-          "_id": "67a1f4e43f34a77b6dde9144",
-          "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-          "name": "Apple AirPods Pro",
-          "description": "Apple AirPods Pro (2nd Gen) with MagSafe Case (USB-C) provide excellent sound, active noise cancellation, and a comfortable fit. The USB-C case ensures quick charging, and they pair seamlessly with Apple devices for an effortless audio experience.",
-          "price": 499.99,
-          "offerPrice": 399.99,
-          "image": [
-            "https://res.cloudinary.com/djbvf02yt/image/upload/v1738667237/lrllaprpos2pnp5c9pyy.png",
-            "https://res.cloudinary.com/djbvf02yt/image/upload/v1738667238/jqotgy2rvm36vfjv6lxl.png",
-            "https://res.cloudinary.com/djbvf02yt/image/upload/v1738667238/niw7tqxvjsxt7wcehxeo.png",
-            "https://res.cloudinary.com/djbvf02yt/image/upload/v1738667237/h8cq4x9cfzqzwaiarvpk.png"
-          ],
-          "category": "Earphone",
-          "date": 1738667236865,
-          "__v": 0
-        },
-        "quantity": 1,
-        "_id": "67a209bab3db72db5cc77b35"
-      }
-    ],
-    "amount": 406.99,
-    "address": {
-      "_id": "67a1e4233f34a77b6dde9055",
-      "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-      "fullName": "GreatStack",
-      "phoneNumber": "0123456789",
-      "pincode": 654321,
-      "area": "Main Road , 123 Street, G Block",
-      "city": "City",
-      "state": "State",
-      "__v": 0
-    },
-    "status": "Order Placed",
-    "date": 1738672560698,
-    "__v": 0
-  }
-]
-
-export const addressDummyData = [
-  {
-    "_id": "67a1e4233f34a77b6dde9055",
-    "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-    "fullName": "GreatStack",
-    "phoneNumber": "0123456789",
-    "pincode": 654321,
-    "area": "Main Road , 123 Street, G Block",
-    "city": "City",
-    "state": "State",
-    "__v": 0
+      "fullName": "John Smith",
+      "area": "Downtown",
+      "city": "New York",
+      "state": "NY",
+      "phoneNumber": "+1-555-0123"
+    }
   }
 ]
